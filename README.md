@@ -27,7 +27,7 @@ Data Representation Formats and Python Information
   </tr>
    <tr>
     <td>json.load</td>
-    <td>Reads JSON from a file and converts it into a Python object. <br>  (returns JSON as a string) </td>
+    <td>Reads JSON from a file and converts it into a Python object. <br>  (reads JSON from a file) </td>
     <td>Json.load opens a JSON file on disk and turns its contents into a Python dictionary.</td>
   </tr>
 </table>
