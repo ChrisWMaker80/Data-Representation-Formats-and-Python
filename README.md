@@ -67,7 +67,7 @@ Data Representation Formats and Python Information
 <table>
 <tr>
 <td><I> .readlines()</I> </td>
-<td> read a text file line‑by‑line <br> Can be used to configure network devices, line by line.  </td> 
+<td> Read a text file line‑by‑line <br> Can be used to configure network devices, line by line.  </td> 
 </tr>
 
 
