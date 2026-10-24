@@ -66,7 +66,7 @@ Data Representation Formats and Python Information
 <h2> Selected Built-in Methods </h2>
 <table>
 <tr>
-<td><I> .readlines()</I> Statement</td>
+<td><I> .readlines()</I> </td>
 <td> read a text file line‑by‑line <br> Can be used to configure network devices, line by line.  </td> 
 </tr>
 
