@@ -52,7 +52,7 @@ Data Representation Formats and Python Information
 </table>
 
 
-<h2>Python Statements (Control structure, behaviors, and flow) </h2>
+<h2>Python Statements (Control structures, behaviors, and flows) </h2>
 
 <table>
 <tr>
