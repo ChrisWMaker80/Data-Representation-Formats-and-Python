@@ -17,8 +17,18 @@ Data Representation Formats and Python Information
     <td>Example: json.loads takes a JSON string like '{"x": 1}' and turns it into a Python dictionary. <br>json.loads accepts any valid JSON, and the first character determines the Python type you get back.  </td>
   </tr>
   <tr>
-    <td>Row 2, Col 1</td>
-    <td>Row 2, Col 2</td>
-    <td>Row 2, Col 3</td>
+    <td>json.dump </td>
+    <td>takes a Python object and writes it as JSON into a file.</td>
+    <td>json.dump takes a Python dictionary and saves it into a file as JSON text. </td>
+  </tr>
+   <tr>
+    <td>json.dumps</td>
+    <td>takes a Python object and converts it into a JSON-formatted string. </td>
+    <td>json.dumps takes a Python dictionary and turns it into a JSON string you can print or send over a network. </td>
+  </tr>
+   <tr>
+    <td>json.load</td>
+    <td>reads JSON from a file and converts it into a Python object. </td>
+    <td>json.load opens a JSON file on disk and turns its contents into a Python dictionary.</td>
   </tr>
 </table>
