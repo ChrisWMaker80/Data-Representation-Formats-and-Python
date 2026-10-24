@@ -13,8 +13,8 @@ Data Representation Formats and Python Information
   </tr>
   <tr>
     <td>json.loads</td>
-    <td>Reads JSON from a string and converts it into a Python object.  </td>
-    <td>Example: json.loads takes a JSON string like '{"x": 1}' and turns it into a Python dictionary. <br>json.loads accepts any valid JSON, and the first character determines the Python type you get back.  </td>
+    <td>Reads JSON from a string and converts it into a Python object. <br>json.loads accepts any valid JSON, and the first character determines the Python type you get back. </td>
+    <td>Example: json.loads takes a JSON string like '{"x": 1}' and turns it into a Python dictionary.   </td>
   </tr>
   <tr>
     <td>json.dump </td>
