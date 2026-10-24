@@ -17,7 +17,7 @@ Data Representation Formats and Python Information
   </tr>
   <tr>
     <td>json.dump </td>
-    <td>Takes a Python object and writes it as JSON into a file. <br>(writes JSON to a file</td>
+    <td>Takes a Python object and writes it as JSON into a file. <br>(writes JSON to a file)</td>
     <td>json.dump takes a Python dictionary and saves it into a file as JSON text. ) </td>
   </tr>
    <tr>
