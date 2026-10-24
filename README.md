@@ -31,3 +31,25 @@ Data Representation Formats and Python Information
     <td>Json.load opens a JSON file on disk and turns its contents into a Python dictionary.</td>
   </tr>
 </table>
+
+
+<table>
+<tr>
+<td> json.dump </td>
+<td>  writes JSON to a file → returns None</td> 
+</tr>
+
+<tr>
+<td> json.dumps </td>
+<td> returns JSON as a string → does not write to a file </td>
+</tr>
+  
+</tr>
+
+
+
+  
+</table>
+
+
+
