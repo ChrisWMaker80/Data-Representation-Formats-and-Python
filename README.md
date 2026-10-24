@@ -55,7 +55,7 @@ Data Representation Formats and Python Information
 
 <table>
 <tr>
-<td> With </td>
+<td><I> With</I> Statement</td>
 <td> With creates a context manager so the file closes when done.  <br> No need to use .close()  </td> 
 </tr>
 
