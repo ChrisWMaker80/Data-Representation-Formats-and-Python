@@ -7,14 +7,14 @@ Data Representation Formats and Python Information
 
 <table border="1">
   <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
-    <th>Column 3</th>
+    <th>Code or Function</th>
+    <th>Explanation</th>
+    <th>Example</th>
   </tr>
   <tr>
-    <td>Row 1, Col 1</td>
-    <td>Row 1, Col 2</td>
-    <td>Row 1, Col 3</td>
+    <td>json.loads</td>
+    <td>reads JSON from a string and converts it into a Python object.  </td>
+    <td>Example: json.loads takes a JSON string like '{"x": 1}' and turns it into a Python dictionary. </td>
   </tr>
   <tr>
     <td>Row 2, Col 1</td>
