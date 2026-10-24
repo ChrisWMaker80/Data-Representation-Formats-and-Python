@@ -64,12 +64,22 @@ Data Representation Formats and Python Information
 </table>
 
 <h2> Selected Built-in Methods </h2>
+
+
 <table>
 <tr>
 <td><I> .readlines()</I> </td>
 <td> Read a text file line‑by‑line <br> Can be used to configure network devices, line by line.  </td> 
 </tr>
 
+
+<tr>
+<td><I>yaml.safe_load()</I> </td>
+<td>takes YAML text and converts it into a Python object (dict, list, string, etc.) — but without executing any arbitrary Python code.  </td> 
+</tr>
+
+
+</table>
 
 
 
